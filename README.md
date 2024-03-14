@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)
 <h1 align="center">Hi 👋, I'm Saumil Shah</h1>
-<h3 align="center">Result Driven Data Analyst from India.</h3>
+<h3 align="center">Result Driven Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-saumil-shah&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-saumil-shah" /> </p>
