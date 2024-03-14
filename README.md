@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)]
 <h1 align="center">Hi 👋, I'm Saumil Shah</h1>
 <h3 align="center">Result Driven Data Analyst from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ/fullscreen">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-saumil-shah&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-saumil-shah" /> </p>
 
