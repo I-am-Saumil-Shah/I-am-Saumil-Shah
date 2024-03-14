@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/saumils24591695" target="blank"><img src="https://img.shields.io/twitter/follow/saumils24591695?logo=twitter&style=for-the-badge" alt="saumils24591695" /></a> </p>
 
-- 🌱 I’m currently learning **Gen AI, ML & Data Science**
+- 🌱 I’m currently learning **to build ML models & how to leverage GEN AI in daily work**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/saumilshah](https://www.novypro.com/profile_projects/saumilshah)
 
-- 💬 Ask me about **SQL,Python,Excel, Power BI**
+- 💬 Ask me about **Data Science, Data Analysis and Entrepreneurship**
 
 - 📫 How to reach me **saumils72@gmail.com**
 
