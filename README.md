@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)
 <h1 align="center">Hi 👋, I'm Saumil Shah</h1>
 <h3 align="center">Result Driven Data Analyst from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
